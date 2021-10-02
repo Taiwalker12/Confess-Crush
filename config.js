@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Demo",
-    introTitle: 'Tên người người yêu mk  á không nói lêu lêu',
+    introTitle: 'Chào cậu j đó dễ thương nha ^^ ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
