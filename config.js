@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Yêu mk Tài thoi  mà <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha baby.',
-    btnAccept: 'Okiiiii lun bn iu <3',
+    btnAccept: 'Okiiiii lun bn iu <333',
     messLink: 'https://github.com/Taiwalker12/Confess-Crush'//
 }
